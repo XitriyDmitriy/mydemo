@@ -1,0 +1,55 @@
+body{
+    background-color:rgb(60, 83, 16);
+}
+.block1 {
+    position:absolute;
+    top:10px;
+    left:300px;
+    width:700px;
+    height:300px;
+    background-color: red;
+    background-image: url();
+    z-index:1 ;
+}
+.block2 {
+    position:absolute;
+    top:310px;
+    left:300px;
+    width:700px;
+    height:400;
+    background-color:gold;
+    background-image: url();
+    z-index:2 ;
+}
+.block3 {
+    position:absolute;
+    top:490px;
+    left:300px;
+    width:700px;
+    height:600px;
+    background-color: gray;
+    background-image: url();
+    z-index:3 ;
+}
+.block4 {
+    position:absolute;
+    top:1090px;
+    left:300px;
+    width:700px;
+    height:450px;
+    background-color: green;
+    background-image: url();
+    z-index:4 ;
+}
+.block5 {
+    position:absolute;
+    top:10px;
+    left:10px;
+    width:1000px;
+    height:2000px;
+    background-color: greenyellow;
+    background-image: url("C:\Users\PC\Desktop\Reziume and div\intro_2019.png.jpg");
+    z-index:0 ;
+    
+        
+}
